@@ -1,0 +1,25 @@
+{
+  "name": "sortpal",
+  "version": "1.0.0",
+  "description": "This package will give you an easy way to sort arrays of anything you can think of",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrinceNet/sortpal.git"
+  },
+  "keywords": [
+    "searchpal",
+    "search",
+    "pal",
+    "easy"
+  ],
+  "author": "Doron Mor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PrinceNet/sortpal/issues"
+  },
+  "homepage": "https://github.com/PrinceNet/sortpal#readme"
+}
