@@ -3,7 +3,7 @@
  *
  * @param {Array} arr
  */
-function semver(arr) {
+function sortBySemver(arr) {
   let result = arr;
   let semverMaxDigits = {
     major: 1,
@@ -50,4 +50,4 @@ function semver(arr) {
   return result;
 }
 
-export default semver;
+export default sortBySemver;
